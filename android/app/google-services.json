@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502835692629",
+    "project_id": "upkeep-7e314",
+    "storage_bucket": "upkeep-7e314.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502835692629:android:9e62a701db63dc8a8480dc",
+        "android_client_info": {
+          "package_name": "com.simats.upkeep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaTK202cd7RXNULz46tiVyzFELqWk6OTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502835692629:android:bd4e0eb9c9d943ed8480dc",
+        "android_client_info": {
+          "package_name": "com.upkeep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaTK202cd7RXNULz46tiVyzFELqWk6OTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
