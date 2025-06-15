@@ -76,4 +76,5 @@ yarn-error.log
 
 
 config.js
-
+my-release-key.keystore
+google-services.json

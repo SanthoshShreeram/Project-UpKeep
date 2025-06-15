@@ -142,7 +142,7 @@ const LocationSearch = ({navigation}) => {
             }
           }}
           query={{
-            key: 'AIzaSyASK5-bJtBM8jUbBLL8sS8xz8LnzInfe7o',
+            key: API_KEY,
             language: 'en',
             types: '(cities)',  // This will help get better place suggestions
           }}
